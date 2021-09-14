@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Sat Sep 11 10:07:00 CEST 2021
+OS\ Name=Linux
+OS\ Version=5.13.14-100.fc33.x86_64
+Username=pb00170
+Hostname=localhost.localdomain
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=9/11/21, 10\:07 AM
